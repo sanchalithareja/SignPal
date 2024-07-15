@@ -1,4 +1,3 @@
-
 # SignPal: Your Friendly Digital Avatar Companion for Effortless Sign Language Communication
 
 **SignPal** is an innovative tool designed to bridge the communication gap for the deaf community. Our goal is to enable seamless translation of all types of audio inputs, including phone calls, YouTube videos, and other media, into sign language in real-time. 
@@ -16,7 +15,7 @@ SignPal is a complex system that uses NLTK, NLP models, SigML, and several other
 ## How it Works
 
 <p align="center">
-  <img src="flowchart (1).jpg" alt="SignPal Workflow" />
+  <img src="flowchart (1).jpg" alt="SignPal Workflow" width="400"/>
 </p>
 
 ## Installation
