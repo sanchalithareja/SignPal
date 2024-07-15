@@ -16,7 +16,7 @@ SignPal is a complex system that uses NLTK, NLP models, SigML, and several other
 ## How it Works
 
 <p align="center">
-  <img src="flowchart.jpg" alt="SignPal Workflow" />
+  <img src="flowchart(1).jpg" alt="SignPal Workflow" />
 </p>
 
 ## Installation
